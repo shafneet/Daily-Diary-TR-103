@@ -3,7 +3,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('./images/web3.webp'); /* Make sure the path is correct */
+    background-image: url('./images/Prompt\ Engineering.jpg'); /* Make sure the path is correct */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -44,7 +44,7 @@ header img {
 }
 
 header .home-button {
-    background-color: #DA83EB;
+    background-color: #83aeeb;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -55,12 +55,12 @@ header .home-button {
 }
 
 header .home-button:hover {
-    background-color: #54025F;
+    background-color: #0b025f;
     transition: all;
 }
 
 header .home-button:active {
-    background-color: #9831a6;
+    background-color: #3162a6;
 }
 
 /* Report Header Styles */
@@ -101,7 +101,7 @@ nav {
 nav a {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #DA83EB;
+    background-color: #83aeeb;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
@@ -109,12 +109,12 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #54025F;
+    background-color: #0b025f;
     transition: all;
 }
 
 nav a:active {
-    background-color: #c75cd5;
+    background-color: #3162a6;
 }
 
 /* Section Styles */
@@ -191,7 +191,7 @@ p{
 }
 
 footer a {
-    color: #DA83EB;
+    color: #83aeeb;
     text-decoration: none;
 }
 
